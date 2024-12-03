@@ -1,4 +1,4 @@
-<img src="logo/final-logo.png" style="text-align: center; width: 400px">
+  <img src="logo/final-logo.png" style="text-align: center; width: 400px">
 
 this year, along with a couple of other teenagers, i organized counterspell delhi, a **12-hour hackathon** for over 30 teenagers in high schools across delhi on 24 november. we ran a game jam event that brought school-going students together to collaborate to make innovative projects using their game engine of choice. this beginner-friendly hacking marathon was the **perfect creative environment for artists, musicians, and coders** alike as people could improve their technical skills by hacking on their projects and their soft skills by working in teams or around people their age in a relaxed non-competitive setting.
 
